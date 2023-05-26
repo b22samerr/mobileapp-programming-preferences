@@ -27,9 +27,9 @@ Jag skapar en ny java fil (Activity2.java), sedan kopplar jag MainActivity.java 
 
 
 
-![](C:\Users\b22samer\AndroidStudioProjects\mobileapp-programming-preferences\Screenshot1.png)
+![](Screenshot1.png)
 Bild på Activity2
 
-![](C:\Users\b22samer\AndroidStudioProjects\mobileapp-programming-preferences\Screenshot2.png)
+![](Screenshot2.png)
 
 Bild på MainActivity
