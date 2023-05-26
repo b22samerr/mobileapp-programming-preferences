@@ -27,9 +27,9 @@ Jag skapar en ny java fil (Activity2.java), sedan kopplar jag MainActivity.java 
 
 
 
-![](Screenshot1.png)
+![](Screenshot1_png)
 Bild på Activity2
 
-![](Screenshot2.png)
+![](Screenshot2_png)
 
 Bild på MainActivity
